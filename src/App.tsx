@@ -16,6 +16,7 @@ function App() {
     const hoursStyle = {
         transform: `rotate(${seconds * 0.0083333333}deg`
     }
+    const test = () => {}
 
     useEffect(() => {
         setInterval(() => {
