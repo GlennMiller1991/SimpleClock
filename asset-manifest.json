@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/SimpleClock/static/css/main.9e95ce95.chunk.css",
-    "main.js": "/SimpleClock/static/js/main.38716d77.chunk.js",
-    "main.js.map": "/SimpleClock/static/js/main.38716d77.chunk.js.map",
+    "main.js": "/SimpleClock/static/js/main.bbd913e4.chunk.js",
+    "main.js.map": "/SimpleClock/static/js/main.bbd913e4.chunk.js.map",
     "runtime-main.js": "/SimpleClock/static/js/runtime-main.40990df5.js",
     "runtime-main.js.map": "/SimpleClock/static/js/runtime-main.40990df5.js.map",
     "static/js/2.3b8da948.chunk.js": "/SimpleClock/static/js/2.3b8da948.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.40990df5.js",
     "static/js/2.3b8da948.chunk.js",
     "static/css/main.9e95ce95.chunk.css",
-    "static/js/main.38716d77.chunk.js"
+    "static/js/main.bbd913e4.chunk.js"
   ]
 }
