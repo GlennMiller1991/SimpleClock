@@ -16,14 +16,14 @@ function App() {
     const hoursStyle = {
         transform: `rotate(${seconds * 0.0083333333}deg`
     }
-    const test = () => {}
-
     useEffect(() => {
-        setInterval(() => {
+        const intervalID = setInterval(() => {
             setSeconds(seconds => seconds + 1)
-        }, 1000)
+        }, 10)
+        return () => {
+            clearInterval(intervalID)
+        }
     }, [])
-    console.log(new Date().getSeconds())
   return (
       <div className="clock">
         <div className="outer-clock-face">
